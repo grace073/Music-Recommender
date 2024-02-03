@@ -29,14 +29,21 @@ This project implements a Music Recommender System using Python, Streamlit, NLTK
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/grace073/Music-Recommender.git`
-2. Navigate to the project directory: `cd Music-Recommender`
-3. Download the Spotify dataset `spotify_millsongdata.csv` from kaggle and place it in the project directory.
-4. Install dependencies
-5. Run the app: `streamlit run app.py`
+1. Install dependencies: `pip install -r requirements.txt`
+2. Run the app: `streamlit run app.py`
 
 ## Project Structure
 
 - `app.py`: Main Streamlit application script.
 - `user_ratings.pkl`: Pickle file for storing user ratings.
 - `user_feedback.pkl`: Pickle file for storing user feedback.
+- `requirements.txt`: List of project dependencies.
+
+## Getting Started
+
+1. Clone the repository: `git clone https://github.com/grace073/Music-Recommender.git`
+2. Navigate to the project directory: `cd Music-Recommender`
+3. Import the dataset `spotify_millsongdata.csv` from kaggle
+4. Install dependencies: `pip install -r requirements.txt`
+5. Run the app: `streamlit run app.py`
+
