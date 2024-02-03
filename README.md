@@ -29,8 +29,8 @@ This project implements a Music Recommender System using Python, Streamlit, NLTK
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/your-username/music-recommender-system.git`
-2. Navigate to the project directory: `cd music-recommender-system`
+1. Clone the repository: `git clone https://github.com/grace073/Music-Recommender.git`
+2. Navigate to the project directory: `cd Music-Recommender`
 3. Install dependencies
 4. Run the app: `streamlit run app.py`
 
