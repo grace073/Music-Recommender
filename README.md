@@ -31,7 +31,7 @@ This project implements a Music Recommender System using Python, Streamlit, NLTK
 
 1. Clone the repository: `git clone https://github.com/grace073/Music-Recommender.git`
 2. Navigate to the project directory: `cd Music-Recommender`
-3. Download the Spotify dataset (`spotify_millsongdata.csv`) and place it in the project directory.
+3. Download the Spotify dataset `spotify_millsongdata.csv` from kaggle and place it in the project directory.
 4. Install dependencies
 5. Run the app: `streamlit run app.py`
 
