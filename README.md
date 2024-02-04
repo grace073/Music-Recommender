@@ -4,6 +4,10 @@
 
 This project implements a Music Recommender System using Python, Streamlit, NLTK, and scikit-learn. The system analyzes a Spotify dataset, applies text processing techniques, and calculates cosine similarity to provide song recommendations based on user selections. Users can rate songs, provide feedback, and view personalized recommendations.
 
+## Prerequisites
+
+Before running the project, you need to download the Spotify dataset (`spotify_millsongdata.csv`) from Kaggle and place it in the project directory. You can find the dataset [here](https://www.kaggle.com/datasets/notshrirang/spotify-million-song-dataset)
+
 ## Features
 
 - **Data Preprocessing:**
