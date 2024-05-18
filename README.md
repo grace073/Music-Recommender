@@ -6,7 +6,7 @@ This project implements a Music Recommender System using Python, Streamlit, NLTK
 
 ## Prerequisites
 
-Before running the project, you need to download the Spotify dataset (`spotify_millsongdata.csv`) from Kaggle and place it in the project directory. You can find the dataset [here](https://www.kaggle.com/datasets/notshrirang/spotify-million-song-dataset)
+Prior to running the project, you need to download the Spotify dataset (`spotify_millsongdata.csv`) from Kaggle and place it in the project directory. You can find the dataset [here](https://www.kaggle.com/datasets/notshrirang/spotify-million-song-dataset)
 
 ## Features
 
