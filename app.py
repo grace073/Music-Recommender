@@ -7,7 +7,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Load the DataFrame and precomputed similarity matrix
-df = pd.read_csv(r'path\to\your\dataset\spotify_millsongdata.csv')
+df = pd.read_csv(r'C:\Users\User\OneDrive\Desktop\projects\AI\MRS\spotify_millsongdata.csv')
 df = df.head(50).drop('link', axis=1).reset_index(drop=True)
 df['text'] = df['text'].str.lower().replace(r'^\w\s', ' ').replace(r'\n', ' ', regex=True)
 
